@@ -14,7 +14,7 @@ adminControllers.controller('Diablo3Controller', function Diablo3Controller($sco
 	$scope.query = "";
 		
 	$scope.init = function() {
-		$http.get('d3.json')
+		$http.get('assets/d3.json')
 		.success(function(response) {
 			$scope.data = response;
 			$scope.mappings = response.mappings;
@@ -29,7 +29,7 @@ adminControllers.controller('Diablo3Controller', function Diablo3Controller($sco
 			importResources(response.resources);
 		});
 		
-		importResourcesFromJsonUrl('legendarygems.json');
+		importResourcesFromJsonUrl('assets/legendarygems.json');
 	};
 	
 	importResourcesFromJsonUrl = function(jsonUrl) {
