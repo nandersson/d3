@@ -1,0 +1,338 @@
+{
+	"id": "legendarygems",
+	
+	"resources": [
+		{
+			"name": "Bane of the powerful",
+			"primary": [
+				"Gain 20% increased damage for 30.0 seconds after killing an elite pack."
+			],
+			"secondary": [
+				"Increases damage against elites by 15.0% (Requires Rank 25)"
+			],
+			"tags": [
+				"classes",
+				"legendary",
+				"gem",
+				"elite damage"
+			],
+			"url": "http://us.battle.net/d3/en/item/bane-of-the-powerful"
+		},
+		{
+			"name": "Bane of the trapped",
+			"primary": [
+				"Increase damage against enemies under the effects of control-impairing effects by 15.00%."
+			],
+			"secondary": [
+				"Gain an aura that reduces the movement speed of enemies within 15 yards by 30%. (Requires Rank 25)"
+			],
+			"tags": [
+				"classes",
+				"legendary",
+				"gem",
+				"control-impairing",
+				"movement speed",
+				"aura"
+			],
+			"url": "http://us.battle.net/d3/en/item/bane-of-the-trapped"
+		},
+		{
+			"name": "Boon of the hoarder",
+			"primary": [
+				"25.0% chance on killing an enemy to cause an explosion of gold."
+			],
+			"secondary": [
+				"Gain 30% increased movement speed for 2 seconds after picking up gold. (Requires Rank 25)"
+			],
+			"tags": [
+				"classes",
+				"legendary",
+				"gem",
+				"movement speed",
+				"gold"
+			],
+			"url": "http://us.battle.net/d3/en/item/boon-of-the-hoarder"
+		},
+		{
+			"name": "Enforcer",
+			"primary": [
+				"Increase the damage of your pets by 15.00%."
+			],
+			"secondary": [
+				"Your pets take 25% less damage. (Requires Rank 25)"
+			],
+			"tags": [
+				"classes",
+				"legendary",
+				"gem",
+				"pets"
+			],
+			"url": "http://us.battle.net/d3/en/item/enforcer"
+		},
+		{
+			"name": "Esoteric Alteration",
+			"primary": [
+				"Gain 10.0% non-Physical damage reduction."
+			],
+			"secondary": [
+				"While below half Life, your resistances to Cold, Fire, Lightning, Poison, and Arcane are increased by 75%. (Requires Rank 25)"
+			],
+			"tags": [
+				"classes",
+				"legendary",
+				"gem",
+				"damage reduction",
+				"cold",
+				"fire",
+				"lightning",
+				"poison",
+				"arcane"
+			],
+			"url": "http://us.battle.net/d3/en/item/esoteric-alteration"
+		},
+		{
+			"name": "Gem of ease",
+			"primary": [
+				"Monster kills grant +500 experience."
+			],
+			"secondary": [
+				"Level requirement of the item this gem is socketed into is set to 1. (Requires Rank 25)"
+			],
+			"tags": [
+				"classes",
+				"legendary",
+				"gem",
+				"experience"
+			],
+			"url": "http://us.battle.net/d3/en/item/gem-of-ease"
+		},
+		{
+			"name": "Gem of efficacious toxin",
+			"primary": [
+				"Poison all enemies hit for 2000% weapon damage over 10 seconds."
+			],
+			"secondary": [
+				"All enemies you poison take 10% increased damage from all sources. (Requires Rank 25)"
+			],
+			"tags": [
+				"classes",
+				"legendary",
+				"gem",
+				"poison",
+				"increased damage"
+			],
+			"url": "http://us.battle.net/d3/en/item/gem-of-efficacious-toxin"
+		},
+		{
+			"name": "Gogok of swiftness",
+			"primary": [
+				"50.0% chance on hit to gain Swiftness, increasing your Attack Speed by 1% for 4 seconds. This effect stacks up to 15 times."
+			],
+			"secondary": [
+				"Gain 1% Cooldown Reduction per stack of Swiftness. (Requires Rank 25)"
+			],
+			"tags": [
+				"classes",
+				"legendary",
+				"gem",
+				"attach speed",
+				"cooldown reduction"
+			],
+			"url": "http://us.battle.net/d3/en/item/gogok-of-swiftness"
+		},
+		{
+			"name": "Iceblink",
+			"primary": [
+				"Your Cold skills now apply Chill effects and your Chill effects now Slow enemy movement by an additional 5.0%."
+			],
+			"secondary": [
+				"Gain 10% increased Critical Hit Chance against Chilled and Frozen enemies. (Requires Rank 25)"
+			],
+			"tags": [
+				"2.2",
+				"classes",
+				"legendary",
+				"gem",
+				"cold",
+				"chill",
+				"frozen",
+				"slow",
+				"critical hit chance"
+			],
+			"url": "http://us.battle.net/d3/en/item/iceblink"
+		},
+		{
+			"name": "Invigorating gemstone",
+			"primary": [
+				"While under any control-impairing effects, reduce all damage taken by 30.0%."
+			],
+			"secondary": [
+				"Heal for 20% of maximum life when hit by a control-impairing effect. (Requires Rank 25)"
+			],
+			"tags": [
+				"classes",
+				"legendary",
+				"gem",
+				"control-impairing",
+				"reduce damage",
+				"heal"
+			],
+			"url": "http://us.battle.net/d3/en/item/invigorating-gemstone"
+		},
+		{
+			"name": "Mirinae, Teardrop of the Starweaver",
+			"primary": [
+				"15% chance on hit to smite a nearby enemy for 2000% weapon damage as Holy."
+			],
+			"secondary": [
+				"Smite a nearby enemy every 5 seconds. (Requires Rank 25)"
+			],
+			"tags": [
+				"classes",
+				"legendary",
+				"gem",
+				"holy",
+				"smite"
+			],
+			"url": "http://us.battle.net/d3/en/item/mirinae-teardrop-of-the-starweaver"
+		},
+		{
+			"name": "Molten Wildebeest's Gizzard",
+			"primary": [
+				"Regenerates 10000 Life per Second."
+			],
+			"secondary": [
+				"After not taking damage for 4 seconds, gain an absorb shield for 200% of your total Life per Second. (Requires Rank 25)"
+			],
+			"tags": [
+				"classes",
+				"legendary",
+				"gem",
+				"life per second",
+				"shield"
+			],
+			"url": "http://us.battle.net/d3/en/item/molten-wildebeests-gizzard"
+		},
+		{
+			"name": "Moratorium",
+			"primary": [
+				"25% of all damage taken is instead staggered and dealt to you over 3.00 seconds."
+			],
+			"secondary": [
+				"10% chance on kill to clear all staggered damage. (Requires Rank 25)"
+			],
+			"tags": [
+				"classes",
+				"legendary",
+				"gem",
+				"stagger"
+			],
+			"url": "http://us.battle.net/d3/en/item/moratorium"
+		},
+		{
+			"name": "Mutilation guard",
+			"primary": [
+				"Gain 10.0% melee damage reduction."
+			],
+			"secondary": [
+				"While below 30% Life, you may move unhindered through enemies. (Requires Rank 25)"
+			],
+			"tags": [
+				"classes",
+				"legendary",
+				"gem",
+				"damage reduction",
+				"control impairing"
+			],
+			"url": "http://us.battle.net/d3/en/item/mutilation-guard"
+		},
+		{
+			"name": "Pain enhancer",
+			"primary": [
+				"Critical hits cause the enemy to bleed for 1200.0% weapon damage as Physical over 3 seconds."
+			],
+			"secondary": [
+				"Gain Blood Frenzy, granting you 3% increased Attack Speed for each bleeding enemy within 20 yards. (Requires Rank 25)"
+			],
+			"tags": [
+				"classes",
+				"legendary",
+				"gem",
+				"bleed",
+				"physical",
+				"critical hits",
+				"attach speed"
+			],
+			"url": "http://us.battle.net/d3/en/item/pain-enhancer"
+		},
+		{
+			"name": "Simplicity's strength",
+			"primary": [
+				"Increase the damage of primary skills by 25.00%."
+			],
+			"secondary": [
+				"Primary skills heal you for 2% of maximum Life on hit. (Requires Rank 25)"
+			],
+			"tags": [
+				"classes",
+				"legendary",
+				"gem",
+				"primary skills",
+				"life on hit"
+			],
+			"url": "http://us.battle.net/d3/en/item/simplicitys-strength"
+		},
+		{
+			"name": "Taeguk",
+			"primary": [
+				"Gain 0.5% increased damage for 3 seconds after spending primary resource. This effect stacks up to 20 times."
+			],
+			"secondary": [
+				"Gain 0.5% increased Armor for every stack. (Requires Rank 25)"
+			],
+			"tags": [
+				"classes",
+				"legendary",
+				"gem",
+				"primary resource",
+				"increased damage",
+				"increased armor"
+			],
+			"url": "http://us.battle.net/d3/en/item/taeguk"
+		},
+		{
+			"name": "Wreath of lightning",
+			"primary": [
+				"15% chance on hit to gain a Wreath of Lightning, dealing 600.0% weapon damage as Lightning every second to nearby enemies for 3 seconds."
+			],
+			"secondary": [
+				"While under the effect of the Wreath of Lightning, gain 25% increased movement speed. (Requires Rank 25)"
+			],
+			"tags": [
+				"classes",
+				"legendary",
+				"gem",
+				"lightning",
+				"movement speed"
+			],
+			"url": "http://us.battle.net/d3/en/item/wreath-of-lightning"
+		},
+		{
+			"name": "Zei's stone of vengeance",
+			"primary": [
+				"Damage you deal is increased by 4.00% for every 10 yards between you and the enemy hit. Maximum 20.00% increase at 50 yards."
+			],
+			"secondary": [
+				"20% chance on hit to Stun the enemy for 1 second. (Requires Rank 25)"
+			],
+			"tags": [
+				"classes",
+				"legendary",
+				"gem",
+				"increased damage",
+				"stun"
+			],
+			"url": "http://us.battle.net/d3/en/item/zeis-stone-of-vengeance"
+		}
+	]
+}

@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html ng-app="Diablo3App">
+	<head>
+		<title>Title</title>
+		
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+		<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" />
+		<link rel="stylesheet" href="css/sticky-footer-navbar.css" />
+
+		<script type="text/javascript" src="https://www.google.com/jsapi"></script>
+		<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+		<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/angular.js/1.2.28/angular.min.js"></script>
+		<script type="text/javascript" src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+
+		<script type="text/javascript" src="/js/d3.controller.js"></script>
+
+		<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+		<!--[if lt IE 9]>
+			<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.2/html5shiv.js"></script>
+			<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+		<![endif]-->
+</head>
+	
+<body ng-controller="Diablo3Controller">
+	<div class="navbar navbar-default" role="navigation">
+		<div class="container">
+			<div class="navbar-header">
+				<a class="navbar-brand" href="#">Niklas testar</a>
+			</div>
+		</div>
+	</div>
+
+	<div class="container">
+		<h1>Select tags</h1>
+		
+		<div class="row" ng-model="tags">
+			<a href="" class="btn btn-xs"
+					ng-repeat="tag in tags | orderBy:'name'"
+					ng-click="toggleTag(tag)"
+					ng-class="tag.selected ? 'btn-info' : 'btn-default'">
+				{{tag.name}}
+			</a>
+		</div>
+		
+		<div class="row">
+			<label>Filter by name</label>
+		
+			<input type="text" ng-model="query" class="form-control"></input>
+		</div>
+		
+		<h1>Matching resources</h1>
+
+		<div class="row">
+			<table class="table">
+				<thead>
+					<tr>
+						<th>Name</th>
+						<th>Primary</th>
+						<th>Secondary</th>
+						<th>Tags</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr ng-repeat="resource in resources | filter:filterByQuery | filter:filterBySelectedTags | limitTo: 5">
+						<td>
+							<a href="{{resource.url}}">{{resource.name}}</a>
+						</td>
+						<td>
+							<ul>
+								<li ng-repeat="p in resource.primary">{{p}}</li>
+							</ul>
+						</td>
+						<td>
+							<ul ng-show="resource.secondary.length > 0">
+								<li ng-repeat="s in resource.secondary">{{s}}</li>
+							</ul>
+						</td>
+						<td class="tags">
+							<span ng-repeat="tag in resource.tags">
+								<span class="label label-default">{{tag}}</span>
+							</span>
+							{{resource.allTags}}
+						</td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+	</div>
+	
+	<footer class="footer">
+		<div class="container">
+			<p class="text-muted pull-right">Niklas Andersson</p>
+		</div>
+	</footer>
+</body>
+</html>

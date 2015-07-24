@@ -1,0 +1,178 @@
+{
+	"tags": [
+		"barbarian",
+		"crusader",
+		"demon hunter",
+		"monk",
+		"witch doctor",
+		"wizard",
+		
+		"strength",
+		"dexterity",
+		"intelligence",
+		"vitality",
+		
+		"normal",
+		"crafted",
+		"legendary",
+		"set",
+		
+		"arcane",
+		"cold",
+		"fire",
+		"lightning",
+		"physical",
+		"poison",
+		
+		"gem",
+		
+		"helm",
+		"spirit stone",
+		"voodoo mask",
+		"wizard hat",
+		
+		"elite damage",
+		"control-impairing",
+		"movement speed",
+		"aura",
+		"gold",
+		"pets",
+		"experience",
+		"increased damage",
+		"increased armor",
+		"cooldown reduction",
+		"resource cost reduction",
+		"chill",
+		"frozen",
+		"stun",
+		"slow",
+		"reduce damage",
+		"damage reduction",
+		"heal",
+		"smite",
+		"shield",
+		"stagger",
+		"bleed",
+		"critical hits",
+		
+		"elemental damages",
+		"socket",
+		"armor",
+		"resistance to all elements",
+		"life",
+		"life per second",
+		"life per hit",
+		"attach speed",
+		"critical hit chance",
+		
+		"primary skills",
+		
+		"exploding palm damage",
+		"wave of light damage",
+		"tempest rush damage",
+		"lashing tail kick damage",
+		
+		"disintegrate damage",
+		"arcane torrent damage",
+		"arcane orb damage",
+		"ray of frost damage",
+		"energy twister damage",
+		"wave of force damage",
+		"meteor damage",
+		
+		"2.2",
+		"2.3"
+	],
+	
+	"mappings": [{
+		"id": "classes",
+		"has": [
+			"classes"
+		],
+		"tags": [
+			"barbarian",
+			"crusader",
+			"demon hunter",
+			"monk",
+			"witch doctor",
+			"wizard"
+		]
+	},
+	{
+		"id": "attributes",
+		"has": [
+			"attributes"
+		],
+		"tags": [
+			"strength",
+			"dexterity",
+			"intelligence",
+			"vitality"
+		]
+	},
+	{
+		"id": "elementals",
+		"has": [
+			"elementals"
+		],
+		"tags": [
+			"arcane",
+			"cold",
+			"fire",
+			"holy",
+			"lightning",
+			"physical",
+			"poison"
+		]
+	},
+	{
+		"id": "helm_monk",
+		"has": [
+			"helm",
+			"monk"
+		],
+		"tags": [
+			"exploding palm damage",
+			"wave of light damage",
+			"tempest rush damage",
+			"lashing tail kick damage"
+		]
+	},
+	{
+		"id": "helm_wizard",
+		"has": [
+			"helm",
+			"wizard"
+		],
+		"tags": [
+			"disintegrate damage",
+			"arcane torrent damage",
+			"arcane orb damage",
+			"ray of frost damage",
+			"energy twister damage",
+			"wave of force damage",
+			"meteor damage"
+		]
+	},
+	{
+		"id": "helm",
+		"has": [
+			"helm"
+		],
+		"tags": [
+			"attributes",
+			"elemental damages",
+			"socket",
+			"armor",
+			"resistance to all elements",
+			"life",
+			"life per second",
+			"life per hit",
+			"attach speed",
+			"critical hit chance"
+		]
+	}],
+	
+	"resources": [
+	]
+}
