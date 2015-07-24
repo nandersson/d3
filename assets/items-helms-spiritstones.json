@@ -1,0 +1,117 @@
+{
+	"id": "items-helms-spiritstones",
+	
+	"resources": [
+		{
+			"name": "Inna's Radiance",
+			"primary": [
+				"+XXX Dexterity"
+			],
+			"secondary": [
+				""
+			],
+			"tags": [
+				"helm",
+				"spirit stone",
+				"monk",
+				"dexterity",
+				"set",
+				"Inna's Mantra"
+			],
+			"url": "http://eu.battle.net/d3/en/item/innas-radiance"
+		},
+		{
+			"name": "See No Evil",
+			"primary": [
+				"+XXX Dexterity"
+			],
+			"secondary": [
+				"Monster kills grant +XXX experience."
+			],
+			"tags": [
+				"helm",
+				"spirit stone",
+				"monk",
+				"dexterity",
+				"legendary",
+				"experience"
+			],
+			"url": "http://eu.battle.net/d3/en/item/see-no-evil"
+		},
+		{
+			"name": "Gyana Na Kashu",
+			"primary": [
+				"+XXX Dexterity"
+			],
+			"secondary": [
+				"Lashing Tail Kick releases a piercing fireball that deals 525–700% weapon damage as Fire to enemies within 10 yards on impact."
+			],
+			"tags": [
+				"helm",
+				"spirit stone",
+				"monk",
+				"dexterity",
+				"legendary",
+				"lashing tail kick",
+				"fire",
+				"aoe"
+			],
+			"url": "http://eu.battle.net/d3/en/item/gyana-na-kashu"
+		},
+		{
+			"name": "Erlang Shen",
+			"primary": [
+				"+XXX Dexterity"
+			],
+			"secondary": [
+				"Reduces duration of control impairing effects by 4–8%"
+			],
+			"tags": [
+				"helm",
+				"spirit stone",
+				"monk",
+				"dexterity",
+				"legendary",
+				"control impairing"
+			],
+			"url": "http://eu.battle.net/d3/en/item/erlang-shen"
+		},
+		{
+			"name": "The Mind's Eye",
+			"primary": [
+				"+XXX Dexterity"
+			],
+			"secondary": [
+				"Inner Sanctuary increases Spirit Regeneration per second by 10–15."
+			],
+			"tags": [
+				"helm",
+				"spirit stone",
+				"monk",
+				"dexterity",
+				"legendary",
+				"inner sanctuary",
+				"spirit regeneration"
+			],
+			"url": "http://eu.battle.net/d3/en/item/the-minds-eye"
+		},
+		{
+			"name": "Eye Of Peshkov",
+			"primary": [
+				"+XXX Dexterity"
+			],
+			"secondary": [
+				"Reduce the cooldown of Breath of Heaven by 38–50%."
+			],
+			"tags": [
+				"helm",
+				"spirit stone",
+				"monk",
+				"dexterity",
+				"legendary",
+				"breath of heaven"
+			],
+			"url": "http://eu.battle.net/d3/en/item/eye-of-peshkov"
+		}
+	]
+}

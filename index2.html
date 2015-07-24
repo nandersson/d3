@@ -7,7 +7,6 @@
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 
 		<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" />
-		<link rel="stylesheet" href="assets/sticky-footer-navbar.css" />
 
 		<script type="text/javascript" src="https://www.google.com/jsapi"></script>
 		<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
@@ -28,7 +27,20 @@
 	<div class="navbar navbar-default" role="navigation">
 		<div class="container">
 			<div class="navbar-header">
-				<a class="navbar-brand" href="#">Niklas testar</a>
+				<a class="navbar-brand" href="index2.html">[BETA] Diablo 3 - Tag filtering</a>
+			</div>
+			
+			<div class="navbar-collapse collapse">
+				<ul class="nav navbar-nav">
+					<li>
+						<a href="https://github.com/nandersson/diablo3/tree/gh-pages">View On <strong>GitHub</strong></a>
+					</li>
+				</ul>
+	
+				<ul class="nav navbar-nav navbar-right">
+					<li><p class="navbar-text">This project is maintained by <a href="https://github.com/nandersson">nandersson</a></p></li>
+					<li><a href="about.html">About</a></li>
+				</ul>
 			</div>
 		</div>
 	</div>
@@ -64,7 +76,7 @@
 					</tr>
 				</thead>
 				<tbody>
-					<tr ng-repeat="resource in resources | filter:filterByQuery | filter:filterBySelectedTags | limitTo: 5">
+					<tr ng-repeat="resource in resources | filter:filterByQuery | filter:filterBySelectedTags | orderBy:'name' | limitTo: 5">
 						<td>
 							<a href="{{resource.url}}">{{resource.name}}</a>
 						</td>
@@ -80,7 +92,10 @@
 						</td>
 						<td class="tags">
 							<span ng-repeat="tag in resource.tags">
-								<span class="label label-default">{{tag}}</span>
+								<span class="label"
+										ng-class="tag == 'set' ? 'label-success' : tag == 'legendary' ? 'label-warning' : 'label-default'">
+									{{tag}}
+								</span>
 							</span>
 							{{resource.allTags}}
 						</td>
@@ -89,11 +104,5 @@
 			</table>
 		</div>
 	</div>
-	
-	<footer class="footer">
-		<div class="container">
-			<p class="text-muted pull-right">Niklas Andersson</p>
-		</div>
-	</footer>
 </body>
 </html>

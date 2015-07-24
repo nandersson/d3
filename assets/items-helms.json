@@ -1,0 +1,56 @@
+{
+	"id": "items-helms",
+	
+	"resources": [
+		{
+			"name": "andariel's visage",
+			"primary": [
+				"Attack Speed Increased by 5.0–6.0%",
+				"5–10% more Fire damage taken."
+			],
+			"secondary": [
+				"+150–200 Poison Resistance",
+				"Attacks release a Poison Nova that deals 350–450% weapon damage as Poison to enemies within 10 yards."
+			],
+			"tags": [
+				"classes",
+				"helm",
+				"legendary",
+				"fire",
+				"poison",
+				"resistance",
+				"nova",
+				"attach speed"
+			],
+			"url": "http://eu.battle.net/d3/en/item/andariels-visage"
+		},
+		{
+			"name": "broken crown",
+			"secondary": [
+				"Whenever a gem drops, a gem of the type socketed into this item also drops."
+			],
+			"tags": [
+				"classes",
+				"helm",
+				"legendary",
+				"socket",
+				"gem"
+			],
+			"url": "http://eu.battle.net/d3/en/item/broken-crown"
+		},
+		{
+			"name": "leoric's crown",
+			"secondary": [
+				"Increase the effect of any gem socketed into this item by 75–100%."
+			],
+			"tags": [
+				"classes",
+				"helm",
+				"legendary",
+				"socket",
+				"gem"
+			],
+			"url": "http://eu.battle.net/d3/en/item/leorics-crown"
+		}
+	]
+}

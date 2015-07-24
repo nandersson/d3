@@ -29,7 +29,9 @@ adminControllers.controller('Diablo3Controller', function Diablo3Controller($sco
 			importResources(response.resources);
 		});
 		
-		importResourcesFromJsonUrl('assets/legendarygems.json');
+		importResourcesFromJsonUrl('assets/gems-legendary.json');
+		importResourcesFromJsonUrl('assets/items-helms.json');
+		importResourcesFromJsonUrl('assets/items-helms-spiritstones.json');
 	};
 	
 	importResourcesFromJsonUrl = function(jsonUrl) {
