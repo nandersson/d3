@@ -17,6 +17,8 @@
 		"legendary",
 		"set",
 		
+		"blacksmith",
+		
 		"arcane",
 		"cold",
 		"fire",
@@ -30,6 +32,8 @@
 		"spirit stone",
 		"voodoo mask",
 		"wizard hat",
+		
+		"shoulders",
 		
 		"elite damage",
 		"control-impairing",
@@ -56,6 +60,12 @@
 		"critical hits",
 		"aoe",
 		"spirit regeneration",
+		"weapon damage",
+		"chance when hit",
+		"pickup radius",
+		"health globe",
+		"potion",
+		"indestructible",
 		
 		"elemental damages",
 		"socket",
@@ -68,6 +78,8 @@
 		"critical hit chance",
 		
 		"primary skills",
+		
+		"furious charge",
 		
 		"lashing tail kick",
 		"inner sanctuary",
