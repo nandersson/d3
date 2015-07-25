@@ -54,7 +54,8 @@
 				"legendary",
 				"lashing tail kick",
 				"fire",
-				"aoe"
+				"aoe",
+				"socket"
 			],
 			"url": "http://eu.battle.net/d3/en/item/gyana-na-kashu"
 		},
@@ -91,7 +92,8 @@
 				"dexterity",
 				"legendary",
 				"inner sanctuary",
-				"spirit regeneration"
+				"spirit regeneration",
+				"socket"
 			],
 			"url": "http://eu.battle.net/d3/en/item/the-minds-eye"
 		},
@@ -109,9 +111,123 @@
 				"monk",
 				"dexterity",
 				"legendary",
-				"breath of heaven"
+				"breath of heaven",
+				"socket"
 			],
 			"url": "http://eu.battle.net/d3/en/item/eye-of-peshkov"
+		},
+		{
+			"name": "Kekegis Unbreakable Spirit",
+			"primary": [
+				"+XXX Dexterity",
+				"Critical Hit Chance Increased by X.X%"
+			],
+			"secondary": [
+				"Damaging enemies has a chance to grant you an effect that removes the Spirit cost of your abilities for 2–4 seconds."
+			],
+			"tags": [
+				"helm",
+				"spirit stone",
+				"monk",
+				"dexterity",
+				"critical hit chance"
+			],
+			"url": "http://eu.battle.net/d3/en/item/kekegis-unbreakable-spirit"
+		},
+		{
+			"name": "The Laws of Seph",
+			"primary": [
+				"+XXX Dexterity"
+			],
+			"secondary": [
+				"Using Blinding Flash restores 75–100 Spirit."
+			],
+			"tags": [
+				"helm",
+				"spirit stone",
+				"monk",
+				"dexterity",
+				"critical hit chance",
+				"blinding flash",
+				"socket"
+			],
+			"url": "http://eu.battle.net/d3/en/item/the-laws-of-seph"
+		},
+		{
+			"name": "Bezoar Stone",
+			"primary": [
+				"+XXX Dexterity",
+				"Increases Tempest Rush Damage by 10–15%",
+				"Increases Exploding Palm Damage by 10–15%",
+				"Increases Wave of Light Damage by 10–15%",
+				"Increases Lashing Tail Kick Damage by 10–15%"
+			],
+			"secondary": [
+				
+			],
+			"tags": [
+				"helm",
+				"spirit stone",
+				"monk",
+				"dexterity",
+				"tempest rush",
+				"exploding palm",
+				"wave of light",
+				"lashing tail kick"
+			],
+			"url": "http://eu.battle.net/d3/en/item/bezoar-stone"
+		},
+		{
+			"name": "The Eye of the Storm",
+			"primary": [
+				"+XXX Dexterity",
+				"Lightning skills deal 15–30% more damage."
+			],
+			"secondary": [
+			],
+			"tags": [
+				"helm",
+				"spirit stone",
+				"monk",
+				"dexterity",
+				"lightning"
+			],
+			"url": "http://eu.battle.net/d3/en/item/the-eye-of-the-storm"
+		},
+		{
+			"name": "Madstone",
+			"primary": [
+				"+XXX Dexterity"
+			],
+			"secondary": [
+				"Your Seven-Sided Strike applies Exploding Palm."
+			],
+			"tags": [
+				"helm",
+				"spirit stone",
+				"monk",
+				"dexterity",
+				"seven sided strike"
+			],
+			"url": "http://eu.battle.net/d3/en/item/madstone"
+		},
+		{
+			"name": "Tzo Krin's Gaze",
+			"primary": [
+				"+XXX Dexterity",
+				"Increases Wave of Light Damage by 20–25% (Monk Only)"
+			],
+			"secondary": [
+				"Wave of Light is now cast at your enemy."
+			],
+			"tags": [
+				"helm",
+				"spirit stone",
+				"monk",
+				"dexterity",
+				"wave of light"
+			],
+			"url": "http://eu.battle.net/d3/en/item/tzo-krins-gaze"
 		}
 	]
 }
