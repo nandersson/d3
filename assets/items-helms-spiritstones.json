@@ -11,11 +11,11 @@
 				""
 			],
 			"tags": [
+				"set",
 				"helm",
 				"spirit stone",
 				"monk",
-				"dexterity",
-				"set",
+				"dexterity"
 				"inna's mantra"
 			],
 			"url": "http://eu.battle.net/d3/en/item/innas-radiance"
@@ -29,6 +29,7 @@
 				"Monster kills grant +XXX experience."
 			],
 			"tags": [
+				"legendary",
 				"helm",
 				"spirit stone",
 				"monk",
@@ -47,6 +48,7 @@
 				"Lashing Tail Kick releases a piercing fireball that deals 525–700% weapon damage as Fire to enemies within 10 yards on impact."
 			],
 			"tags": [
+				"legendary",
 				"helm",
 				"spirit stone",
 				"monk",
@@ -68,6 +70,7 @@
 				"Reduces duration of control impairing effects by 4–8%"
 			],
 			"tags": [
+				"legendary",
 				"helm",
 				"spirit stone",
 				"monk",
@@ -86,6 +89,7 @@
 				"Inner Sanctuary increases Spirit Regeneration per second by 10–15."
 			],
 			"tags": [
+				"legendary",
 				"helm",
 				"spirit stone",
 				"monk",
@@ -106,6 +110,7 @@
 				"Reduce the cooldown of Breath of Heaven by 38–50%."
 			],
 			"tags": [
+				"legendary",
 				"helm",
 				"spirit stone",
 				"monk",
@@ -126,6 +131,7 @@
 				"Damaging enemies has a chance to grant you an effect that removes the Spirit cost of your abilities for 2–4 seconds."
 			],
 			"tags": [
+				"legendary",
 				"helm",
 				"spirit stone",
 				"monk",
@@ -143,6 +149,7 @@
 				"Using Blinding Flash restores 75–100 Spirit."
 			],
 			"tags": [
+				"legendary",
 				"helm",
 				"spirit stone",
 				"monk",
@@ -166,6 +173,7 @@
 				
 			],
 			"tags": [
+				"legendary",
 				"helm",
 				"spirit stone",
 				"monk",
@@ -186,6 +194,7 @@
 			"secondary": [
 			],
 			"tags": [
+				"legendary",
 				"helm",
 				"spirit stone",
 				"monk",
@@ -203,6 +212,7 @@
 				"Your Seven-Sided Strike applies Exploding Palm."
 			],
 			"tags": [
+				"legendary",
 				"helm",
 				"spirit stone",
 				"monk",
@@ -221,6 +231,7 @@
 				"Wave of Light is now cast at your enemy."
 			],
 			"tags": [
+				"legendary",
 				"helm",
 				"spirit stone",
 				"monk",
