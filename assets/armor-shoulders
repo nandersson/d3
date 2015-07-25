@@ -1,0 +1,430 @@
+{
+	"id": "armor-shoulders",
+	
+	"resources": [
+		{
+			"name": "Homing Pads",
+			"primary": [
+			],
+			"secondary": [
+				"+9–10% Extra Gold from Monsters",
+				"Your Town Portal is no longer interrupted by taking damage. While casting Town Portal you gain a protective bubble that reduces damage taken by 50–65%."
+			],
+			"tags": [
+				"legendary",
+				"classes",
+				"armor",
+				"shoulders",
+				"gold",
+				"town portal"
+			],
+			"url": "http://eu.battle.net/d3/en/item/homing-pads"
+		},
+		{
+			"name": "Death Watch Mantle",
+			"primary": [
+			],
+			"secondary": [
+				"25–35% chance to explode in a fan of knives for 750-950% weapon damage when hit."
+			],
+			"tags": [
+				"legendary",
+				"classes",
+				"armor",
+				"shoulders",
+				"weapon damage",
+				"chance when hit"
+			],
+			"url": "http://eu.battle.net/d3/en/item/death-watch-mantle"
+		},
+		{
+			"name": "Profane Pauldrons",
+			"primary": [
+			],
+			"secondary": [
+				"Increases Gold and Health Pickup by 4–6 Yards.",
+				"Health Globes and Potions Grant +XXX Life.
+			],
+			"tags": [
+				"legendary",
+				"classes",
+				"armor",
+				"shoulders",
+				"pickup radius",
+				"health globe",
+				"potion"
+			],
+			"url": "http://eu.battle.net/d3/en/item/profane-pauldrons"
+		},
+		{
+			"name": "Spaulders of Zakara",
+			"primary": [
+			],
+			"secondary": [
+				"Your items become indestructible."
+			],
+			"tags": [
+				"legendary",
+				"classes",
+				"armor",
+				"shoulders",
+				"indestructible"
+			],
+			"url": "http://eu.battle.net/d3/en/item/spaulders-of-zakara"
+		},
+		{
+			"name": "Vile Ward",
+			"primary": [
+			],
+			"secondary": [
+				"Furious Charge deals 30–35% increased damage for every enemy hit while charging."
+			],
+			"tags": [
+				"legendary",
+				"barbarian",
+				"armor",
+				"shoulders",
+				"furious charge"
+			],
+			"url": "http://eu.battle.net/d3/en/item/vile-ward"
+		},
+		{
+			"name": "Seven sins",
+			"primary": [
+			],
+			"secondary": [
+				"+XXX Arcane Resistance"
+			],
+			"tags": [
+				"legendary",
+				"classes",
+				"armor",
+				"shoulders",
+				"crafted",
+				"blacksmith"
+			],
+			"url": "http://eu.battle.net/d3/en/artisan/blacksmith/recipe/seven-sins"
+		},
+		{
+			"name": "Corruption",
+			"primary": [
+			],
+			"secondary": [
+			],
+			"tags": [
+				"legendary",
+				"classes",
+				"armor",
+				"shoulders",
+				"crafted",
+				"blacksmith"
+			],
+			"url": "http://eu.battle.net/d3/en/artisan/blacksmith/recipe/corruption"
+		},
+		{
+			"name": "Born's Pauldrons",
+			"primary": [
+				"+X Armor",
+				"Regenerates X Life per Second"
+			],
+			"secondary": [
+				""
+			],
+			"tags": [
+				"set",
+				"classes",
+				"armor",
+				"shoulders",
+				"crafted",
+				"blacksmith",
+				"born's defiance",
+				"armor",
+				"life per second"
+			],
+			"url": "http://eu.battle.net/d3/en/artisan/blacksmith/recipe/borns-pauldrons"
+		},
+		{
+			"name": "Aughild's Reign",
+			"primary": [
+				"+X Vitality",
+				"+X Armor"
+			],
+			"secondary": [
+				"Monster kills grant +50–79 experience."
+			],
+			"tags": [
+				"set",
+				"classes",
+				"armor",
+				"shoulders",
+				"crafted",
+				"blacksmith",
+				"aughild's victory",
+				"experience",
+				"vitality",
+				"armor"
+			],
+			"url": "http://eu.battle.net/d3/en/artisan/blacksmith/recipe/aughilds-triumph"
+		},
+		{
+			"name": "Ashearas Guard",
+			"primary": [
+				"+X Intelligence"
+			],
+			"secondary": [
+				"+X Poison Resistance",
+				"+15–25% Extra Gold from Monsters"
+			],
+			"tags": [
+				"set",
+				"classes",
+				"armor",
+				"shoulders",
+				"crafted",
+				"blacksmith",
+				"asheara's uniform",
+				"intelligence",
+				"poison",
+				"resistance",
+				"gold"
+			],
+			"url": "http://eu.battle.net/d3/en/artisan/blacksmith/recipe/ashearas-vigilance"
+		},
+		{
+			"name": "Demon's Flight",
+			"primary": [
+				"+X Fire Resistance"
+			],
+			"secondary": [
+			],
+			"tags": [
+				"set",
+				"classes",
+				"armor",
+				"shoulders",
+				"crafted",
+				"blacksmith",
+				"demon's skin",
+				"fire",
+				"resistance"
+			],
+			"url": "http://eu.battle.net/d3/en/artisan/blacksmith/recipe/demons-wings"
+		},
+		{
+			"name": "Asheara's Custodian",
+			"primary": [
+			],
+			"secondary": [
+			],
+			"tags": [
+				"set",
+				"classes",
+				"armor",
+				"shoulders",
+				"crafted",
+				"blacksmith",
+				"asheara's vestments"
+			],
+			"url": "http://eu.battle.net/d3/en/artisan/blacksmith/recipe/ashearas-custodian"
+		},
+		{
+			"name": "Aughild's Power",
+			"primary": [
+			],
+			"secondary": [
+			],
+			"tags": [
+				"set",
+				"classes",
+				"armor",
+				"shoulders",
+				"crafted",
+				"blacksmith",
+				"aughild's authority"
+			],
+			"url": "http://eu.battle.net/d3/en/artisan/blacksmith/recipe/aughilds-power"
+		},
+		{
+			"name": "Born's Privilege",
+			"primary": [
+			],
+			"secondary": [
+			],
+			"tags": [
+				"set",
+				"classes",
+				"armor",
+				"shoulders",
+				"crafted",
+				"blacksmith",
+				"born's command"
+			],
+			"url": "http://eu.battle.net/d3/en/artisan/blacksmith/recipe/borns-privilege"
+		},
+		{
+			"name": "Burden of the Invoker",
+			"primary": [
+			],
+			"secondary": [
+				"Ranged and melee attackers take 2667–3498 damage per hit"
+			],
+			"tags": [
+				"set",
+				"crusader",
+				"armor",
+				"shoulders",
+				"thorns of the invoker",
+				"thorns",
+				"when hit"
+			],
+			"url": "http://eu.battle.net/d3/en/item/burden-of-the-invoker"
+		},
+		{
+			"name": "Dashing Pauldrons of Despair",
+			"primary": [
+				"+416–500 Intelligence",
+				"+373–397 Armor"
+			],
+			"secondary": [
+			],
+			"tags": [
+				"set",
+				"wizard",
+				"armor",
+				"shoulders",
+				"delsere's magnum opus",
+				"intelligence",
+				"armor"
+			],
+			"url": "http://eu.battle.net/d3/en/item/dashing-pauldrons-of-despair"
+		},
+		{
+			"name": "Demon's Aileron",
+			"primary": [
+			],
+			"secondary": [
+			],
+			"tags": [
+				"set",
+				"classes",
+				"armor",
+				"shoulders",
+				"crafted",
+				"blacksmith",
+				"demon's hide"
+			],
+			"url": "http://eu.battle.net/d3/en/artisan/blacksmith/recipe/demons-aileron"
+		},
+		{
+			"name": "Firebird's Pinions",
+			"primary": [
+				"+416–500 Intelligence",
+				"Reduces all resource costs by 5–8%."
+			],
+			"secondary": [
+			],
+			"tags": [
+				"set",
+				"wizard",
+				"armor",
+				"shoulders",
+				"firebird's finery",
+				"intelligence",
+				"resource cost reduction"
+			],
+			"url": "http://eu.battle.net/d3/en/item/firebirds-pinions"
+		},
+		{
+			"name": "Helltooth Mantle",
+			"primary": [
+				"+416–500 Intelligence",
+				"Reduces cooldown of all skills by 5.0–8.0%."
+			],
+			"secondary": [
+			],
+			"tags": [
+				"set",
+				"witch doctor",
+				"armor",
+				"shoulders",
+				"helltooth harness",
+				"intelligence",
+				"resource cost reduction"
+			],
+			"url": "http://eu.battle.net/d3/en/item/helltooth-mantle"
+		},
+		{
+			"name": "Jade Harvester's Joy",
+			"primary": [
+				"+91–100 Resistance to All Elements"
+			],
+			"secondary": [
+			],
+			"tags": [
+				"set",
+				"classes",
+				"armor",
+				"shoulders",
+				"raiment of the jade harvester"
+			],
+			"url": "http://eu.battle.net/d3/en/item/jade-harvesters-joy"
+		},
+		{
+			"name": "Mantle of the Upsidedown Sinners",
+			"primary": [
+				"+416–500 Dexterity",
+				"+91–100 Resistance to All Elements"
+			],
+			"secondary": [
+			],
+			"tags": [
+				"set",
+				"monk",
+				"armor",
+				"shoulders",
+				"raiment of a thousand storms",
+				"dexterity",
+				"resistance"
+			],
+			"url": "http://eu.battle.net/d3/en/item/mantle-of-the-upsidedown-sinners"
+		},
+		{
+			"name": "Marauder's Spines",
+			"primary": [
+				"+416–500 Dexterity",
+				"Reduces all resource costs by 5–8%."
+			],
+			"secondary": [
+			],
+			"tags": [
+				"set",
+				"demon hunter",
+				"armor",
+				"shoulders",
+				"embodiment of the marauder",
+				"dexterity",
+				"resource cost reduction"
+			],
+			"url": "http://eu.battle.net/d3/en/item/marauders-spines"
+		},
+		{
+			"name": "Pauldrons of Akkhan",
+			"primary": [
+				"+416–500 Strength",
+				"+91–100 Resistance to All Elements"
+			],
+			"secondary": [
+			],
+			"tags": [
+				"set",
+				"crusader",
+				"armor",
+				"shoulders",
+				"armor of akkhan",
+				"strength",
+				"resistance"
+			],
+			"url": "http://eu.battle.net/d3/en/item/pauldrons-of-akkhan"
+		}
+	]
+}
