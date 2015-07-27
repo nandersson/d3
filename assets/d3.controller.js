@@ -2,7 +2,7 @@ var Diablo3App = angular.module('Diablo3App', ['Diablo3Controllers']);
 
 var adminControllers = angular.module('Diablo3Controllers', []);
 
-adminControllers.controller('Diablo3Controller', function Diablo3Controller($scope, $http, $log) {
+adminControllers.controller('Diablo3Controller', function Diablo3Controller($scope, $http, $log, $location) {
 	$scope.maxResultOptions = [5, 10, 20, 30];
 	$scope.maxResults = $scope.maxResultOptions[0];
 	
@@ -36,7 +36,14 @@ adminControllers.controller('Diablo3Controller', function Diablo3Controller($sco
 		importResourcesFromJsonUrl('assets/armor-helms-spiritstones.json');
 		importResourcesFromJsonUrl('assets/armor-shoulders.json');
 		importResourcesFromJsonUrl('assets/gems-legendary.json');
+		
+		$scope.query = getParameterByName('q');
 	};
+	
+	getParameterByName = function (name) {
+	    var match = RegExp('[?&]' + name + '=([^&]*)').exec(window.location.search);
+	    return match && decodeURIComponent(match[1].replace(/\+/g, ' '));
+	}
 	
 	importResourcesFromJsonUrl = function(jsonUrl) {
 		$http.get(jsonUrl)
