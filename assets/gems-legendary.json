@@ -11,8 +11,8 @@
 				"Increases damage against elites by 15.0% (Requires Rank 25)"
 			],
 			"tags": [
-				"classes",
 				"legendary",
+				"classes",
 				"gem",
 				"elite damage"
 			],
@@ -27,8 +27,8 @@
 				"Gain an aura that reduces the movement speed of enemies within 15 yards by 30%. (Requires Rank 25)"
 			],
 			"tags": [
-				"classes",
 				"legendary",
+				"classes",
 				"gem",
 				"control-impairing",
 				"movement speed",
@@ -45,8 +45,8 @@
 				"Gain 30% increased movement speed for 2 seconds after picking up gold. (Requires Rank 25)"
 			],
 			"tags": [
-				"classes",
 				"legendary",
+				"classes",
 				"gem",
 				"movement speed",
 				"gold"
@@ -62,8 +62,8 @@
 				"Your pets take 25% less damage. (Requires Rank 25)"
 			],
 			"tags": [
-				"classes",
 				"legendary",
+				"classes",
 				"gem",
 				"pets"
 			],
@@ -78,8 +78,8 @@
 				"While below half Life, your resistances to Cold, Fire, Lightning, Poison, and Arcane are increased by 75%. (Requires Rank 25)"
 			],
 			"tags": [
-				"classes",
 				"legendary",
+				"classes",
 				"gem",
 				"damage reduction",
 				"cold",
@@ -99,8 +99,8 @@
 				"Level requirement of the item this gem is socketed into is set to 1. (Requires Rank 25)"
 			],
 			"tags": [
-				"classes",
 				"legendary",
+				"classes",
 				"gem",
 				"experience"
 			],
@@ -115,8 +115,8 @@
 				"All enemies you poison take 10% increased damage from all sources. (Requires Rank 25)"
 			],
 			"tags": [
-				"classes",
 				"legendary",
+				"classes",
 				"gem",
 				"poison",
 				"increased damage"
@@ -132,8 +132,8 @@
 				"Gain 1% Cooldown Reduction per stack of Swiftness. (Requires Rank 25)"
 			],
 			"tags": [
-				"classes",
 				"legendary",
+				"classes",
 				"gem",
 				"attach speed",
 				"cooldown reduction"
@@ -150,8 +150,8 @@
 			],
 			"tags": [
 				"2.2",
-				"classes",
 				"legendary",
+				"classes",
 				"gem",
 				"cold",
 				"chill",
@@ -170,8 +170,8 @@
 				"Heal for 20% of maximum life when hit by a control-impairing effect. (Requires Rank 25)"
 			],
 			"tags": [
-				"classes",
 				"legendary",
+				"classes",
 				"gem",
 				"control-impairing",
 				"reduce damage",
@@ -188,8 +188,8 @@
 				"Smite a nearby enemy every 5 seconds. (Requires Rank 25)"
 			],
 			"tags": [
-				"classes",
 				"legendary",
+				"classes",
 				"gem",
 				"holy",
 				"smite"
@@ -205,8 +205,8 @@
 				"After not taking damage for 4 seconds, gain an absorb shield for 200% of your total Life per Second. (Requires Rank 25)"
 			],
 			"tags": [
-				"classes",
 				"legendary",
+				"classes",
 				"gem",
 				"life per second",
 				"shield"
@@ -222,8 +222,8 @@
 				"10% chance on kill to clear all staggered damage. (Requires Rank 25)"
 			],
 			"tags": [
-				"classes",
 				"legendary",
+				"classes",
 				"gem",
 				"stagger"
 			],
@@ -238,8 +238,8 @@
 				"While below 30% Life, you may move unhindered through enemies. (Requires Rank 25)"
 			],
 			"tags": [
-				"classes",
 				"legendary",
+				"classes",
 				"gem",
 				"damage reduction",
 				"control impairing"
@@ -255,8 +255,8 @@
 				"Gain Blood Frenzy, granting you 3% increased Attack Speed for each bleeding enemy within 20 yards. (Requires Rank 25)"
 			],
 			"tags": [
-				"classes",
 				"legendary",
+				"classes",
 				"gem",
 				"bleed",
 				"physical",
@@ -274,8 +274,8 @@
 				"Primary skills heal you for 2% of maximum Life on hit. (Requires Rank 25)"
 			],
 			"tags": [
-				"classes",
 				"legendary",
+				"classes",
 				"gem",
 				"primary skills",
 				"life on hit"
@@ -291,8 +291,8 @@
 				"Gain 0.5% increased Armor for every stack. (Requires Rank 25)"
 			],
 			"tags": [
-				"classes",
 				"legendary",
+				"classes",
 				"gem",
 				"primary resource",
 				"increased damage",
@@ -309,8 +309,8 @@
 				"While under the effect of the Wreath of Lightning, gain 25% increased movement speed. (Requires Rank 25)"
 			],
 			"tags": [
-				"classes",
 				"legendary",
+				"classes",
 				"gem",
 				"lightning",
 				"movement speed"
@@ -326,8 +326,8 @@
 				"20% chance on hit to Stun the enemy for 1 second. (Requires Rank 25)"
 			],
 			"tags": [
-				"classes",
 				"legendary",
+				"classes",
 				"gem",
 				"increased damage",
 				"stun"

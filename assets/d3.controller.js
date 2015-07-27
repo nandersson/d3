@@ -3,6 +3,9 @@ var Diablo3App = angular.module('Diablo3App', ['Diablo3Controllers']);
 var adminControllers = angular.module('Diablo3Controllers', []);
 
 adminControllers.controller('Diablo3Controller', function Diablo3Controller($scope, $http, $log) {
+	$scope.maxResultOptions = [5, 10, 20, 30];
+	$scope.maxResults = $scope.maxResultOptions[0];
+	
 	$scope.data = null;
 	$scope.mappings = [];
 	$scope.resources = [];
@@ -29,21 +32,30 @@ adminControllers.controller('Diablo3Controller', function Diablo3Controller($sco
 			importResources(response.resources);
 		});
 		
+		importResourcesFromJsonUrl('assets/armor-helms.json');
+		importResourcesFromJsonUrl('assets/armor-helms-spiritstones.json');
+		importResourcesFromJsonUrl('assets/armor-shoulders.json');
 		importResourcesFromJsonUrl('assets/gems-legendary.json');
-		importResourcesFromJsonUrl('assets/items-helms.json');
-		importResourcesFromJsonUrl('assets/items-helms-spiritstones.json');
 	};
 	
 	importResourcesFromJsonUrl = function(jsonUrl) {
 		$http.get(jsonUrl)
 		.success(function(response) {
-			importResources(response.resources);
+			importResources(response);
 		});
 	}
 	
-	importResources = function(resources) {
+	importResources = function(response) {
+		if (response.resources == null || response.resources.length == 0) {
+			return;
+		}
+		
+		var resources = response.resources;
+		
 		// Push all resouces to global resources
 		pushAll($scope.resources, resources);
+		
+		$log.info("Imported " +resources.length+ " resources from " +response.id);
 		
 		for (var i = resources.length - 1; i >= 0; i--) {
 			// Initiate allTags with tags
