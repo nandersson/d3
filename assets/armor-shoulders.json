@@ -13,7 +13,6 @@
 			"tags": [
 				"legendary",
 				"classes",
-				"armor",
 				"shoulders",
 				"gold",
 				"town portal"
@@ -30,7 +29,6 @@
 			"tags": [
 				"legendary",
 				"classes",
-				"armor",
 				"shoulders",
 				"weapon damage",
 				"chance when hit"
@@ -48,7 +46,6 @@
 			"tags": [
 				"legendary",
 				"classes",
-				"armor",
 				"shoulders",
 				"pickup radius",
 				"health globe",
@@ -66,7 +63,6 @@
 			"tags": [
 				"legendary",
 				"classes",
-				"armor",
 				"shoulders",
 				"indestructible"
 			],
@@ -82,7 +78,6 @@
 			"tags": [
 				"legendary",
 				"barbarian",
-				"armor",
 				"shoulders",
 				"furious charge"
 			],
@@ -98,7 +93,6 @@
 			"tags": [
 				"legendary",
 				"classes",
-				"armor",
 				"shoulders",
 				"crafted",
 				"blacksmith"
@@ -114,7 +108,6 @@
 			"tags": [
 				"legendary",
 				"classes",
-				"armor",
 				"shoulders",
 				"crafted",
 				"blacksmith"
@@ -133,11 +126,11 @@
 			"tags": [
 				"set",
 				"classes",
-				"armor",
 				"shoulders",
 				"crafted",
 				"blacksmith",
 				"born's defiance",
+				"armor",
 				"life per second"
 			],
 			"url": "http://eu.battle.net/d3/en/artisan/blacksmith/recipe/borns-pauldrons"
@@ -154,11 +147,11 @@
 			"tags": [
 				"set",
 				"classes",
-				"armor",
 				"shoulders",
 				"crafted",
 				"blacksmith",
 				"aughild's victory",
+				"armor",
 				"experience",
 				"vitality"
 			],
@@ -176,7 +169,6 @@
 			"tags": [
 				"set",
 				"classes",
-				"armor",
 				"shoulders",
 				"crafted",
 				"blacksmith",
@@ -198,7 +190,6 @@
 			"tags": [
 				"set",
 				"classes",
-				"armor",
 				"shoulders",
 				"crafted",
 				"blacksmith",
@@ -217,7 +208,6 @@
 			"tags": [
 				"set",
 				"classes",
-				"armor",
 				"shoulders",
 				"crafted",
 				"blacksmith",
@@ -234,7 +224,6 @@
 			"tags": [
 				"set",
 				"classes",
-				"armor",
 				"shoulders",
 				"crafted",
 				"blacksmith",
@@ -251,7 +240,6 @@
 			"tags": [
 				"set",
 				"classes",
-				"armor",
 				"shoulders",
 				"crafted",
 				"blacksmith",
@@ -269,7 +257,6 @@
 			"tags": [
 				"set",
 				"crusader",
-				"armor",
 				"shoulders",
 				"thorns of the invoker",
 				"thorns",
@@ -288,10 +275,10 @@
 			"tags": [
 				"set",
 				"wizard",
-				"armor",
 				"shoulders",
 				"delsere's magnum opus",
 				"intelligence"
+				"armor",
 			],
 			"url": "http://eu.battle.net/d3/en/item/dashing-pauldrons-of-despair"
 		},
@@ -304,7 +291,6 @@
 			"tags": [
 				"set",
 				"classes",
-				"armor",
 				"shoulders",
 				"crafted",
 				"blacksmith",
@@ -323,7 +309,6 @@
 			"tags": [
 				"set",
 				"wizard",
-				"armor",
 				"shoulders",
 				"firebird's finery",
 				"intelligence",
@@ -342,7 +327,6 @@
 			"tags": [
 				"set",
 				"witch doctor",
-				"armor",
 				"shoulders",
 				"helltooth harness",
 				"intelligence",
@@ -360,7 +344,6 @@
 			"tags": [
 				"set",
 				"classes",
-				"armor",
 				"shoulders",
 				"raiment of the jade harvester"
 			],
@@ -377,7 +360,6 @@
 			"tags": [
 				"set",
 				"monk",
-				"armor",
 				"shoulders",
 				"raiment of a thousand storms",
 				"dexterity",
@@ -396,7 +378,6 @@
 			"tags": [
 				"set",
 				"demon hunter",
-				"armor",
 				"shoulders",
 				"embodiment of the marauder",
 				"dexterity",
@@ -415,7 +396,6 @@
 			"tags": [
 				"set",
 				"crusader",
-				"armor",
 				"shoulders",
 				"armor of akkhan",
 				"strength",
@@ -434,7 +414,6 @@
 			"tags": [
 				"set",
 				"barbarian",
-				"armor",
 				"shoulders",
 				"wrath of the wastes",
 				"strength",
@@ -453,7 +432,6 @@
 			"tags": [
 				"set",
 				"barbarian",
-				"armor",
 				"shoulders",
 				"the legacy of raekor",
 				"strength",
@@ -472,7 +450,6 @@
 			"tags": [
 				"set",
 				"barbarian",
-				"armor",
 				"shoulders",
 				"roland's legacy",
 				"strength",
@@ -490,7 +467,6 @@
 			"tags": [
 				"set",
 				"classes",
-				"armor",
 				"shoulders",
 				"might of the earth",
 				"resistance"
@@ -507,7 +483,6 @@
 			"tags": [
 				"set",
 				"monk",
-				"armor",
 				"shoulders",
 				"monkey king's garb",
 				"resistance"
@@ -525,7 +500,6 @@
 			"tags": [
 				"set",
 				"demon hunter",
-				"armor",
 				"shoulders",
 				"unhallowed essence",
 				"resistance"
