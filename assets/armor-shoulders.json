@@ -43,7 +43,7 @@
 			],
 			"secondary": [
 				"Increases Gold and Health Pickup by 4–6 Yards.",
-				"Health Globes and Potions Grant +XXX Life.
+				"Health Globes and Potions Grant +XXX Life."
 			],
 			"tags": [
 				"legendary",
@@ -138,7 +138,6 @@
 				"crafted",
 				"blacksmith",
 				"born's defiance",
-				"armor",
 				"life per second"
 			],
 			"url": "http://eu.battle.net/d3/en/artisan/blacksmith/recipe/borns-pauldrons"
@@ -161,8 +160,7 @@
 				"blacksmith",
 				"aughild's victory",
 				"experience",
-				"vitality",
-				"armor"
+				"vitality"
 			],
 			"url": "http://eu.battle.net/d3/en/artisan/blacksmith/recipe/aughilds-triumph"
 		},
@@ -293,8 +291,7 @@
 				"armor",
 				"shoulders",
 				"delsere's magnum opus",
-				"intelligence",
-				"armor"
+				"intelligence"
 			],
 			"url": "http://eu.battle.net/d3/en/item/dashing-pauldrons-of-despair"
 		},
@@ -425,6 +422,115 @@
 				"resistance"
 			],
 			"url": "http://eu.battle.net/d3/en/item/pauldrons-of-akkhan"
+		},
+		{
+			"name": "Pauldrons of the Wastes",
+			"primary": [
+				"+416–500 Strength",
+				"+91–100 Resistance to All Elements"
+			],
+			"secondary": [
+			],
+			"tags": [
+				"set",
+				"barbarian",
+				"armor",
+				"shoulders",
+				"wrath of the wastes",
+				"strength",
+				"resistance"
+			],
+			"url": "http://eu.battle.net/d3/en/item/pauldrons-of-the-wastes"
+		},
+		{
+			"name": "Raekors Burden",
+			"primary": [
+				"+416–500 Strength",
+				"+91–100 Resistance to All Elements"
+			],
+			"secondary": [
+			],
+			"tags": [
+				"set",
+				"barbarian",
+				"armor",
+				"shoulders",
+				"the legacy of raekor",
+				"strength",
+				"resistance"
+			],
+			"url": "http://eu.battle.net/d3/en/item/raekors-burden"
+		},
+		{
+			"name": "Rolands Mantle",
+			"primary": [
+				"+416–500 Strength",
+				"+91–100 Resistance to All Elements"
+			],
+			"secondary": [
+			],
+			"tags": [
+				"set",
+				"barbarian",
+				"armor",
+				"shoulders",
+				"roland's legacy",
+				"strength",
+				"resistance"
+			],
+			"url": "http://eu.battle.net/d3/en/item/rolands-mantle"
+		},
+		{
+			"name": "Spires of the Earth",
+			"primary": [
+				"+91–100 Resistance to All Elements"
+			],
+			"secondary": [
+			],
+			"tags": [
+				"set",
+				"classes",
+				"armor",
+				"shoulders",
+				"might of the earth",
+				"resistance"
+			],
+			"url": "http://eu.battle.net/d3/en/item/spires-of-the-earth"
+		},
+		{
+			"name": "Sunwuko's Balance",
+			"primary": [
+				"+91–100 Resistance to All Elements"
+			],
+			"secondary": [
+			],
+			"tags": [
+				"set",
+				"monk",
+				"armor",
+				"shoulders",
+				"monkey king's garb",
+				"resistance"
+			],
+			"url": "http://eu.battle.net/d3/en/item/sunwukos-balance"
+		},
+		{
+			"name": "Unsanctified Shoulders",
+			"primary": [
+				"+416–500 Dexterity",
+				"+91–100 Resistance to All Elements"
+			],
+			"secondary": [
+			],
+			"tags": [
+				"set",
+				"demon hunter",
+				"armor",
+				"shoulders",
+				"unhallowed essence",
+				"resistance"
+			],
+			"url": "http://eu.battle.net/d3/en/item/unsanctified-shoulders"
 		}
 	]
 }
