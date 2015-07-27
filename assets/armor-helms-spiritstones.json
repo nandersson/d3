@@ -1,5 +1,5 @@
 {
-	"id": "items-helms-spiritstones",
+	"id": "armor-helms-spiritstones",
 	
 	"resources": [
 		{
@@ -15,7 +15,7 @@
 				"helm",
 				"spirit stone",
 				"monk",
-				"dexterity"
+				"dexterity",
 				"inna's mantra"
 			],
 			"url": "http://eu.battle.net/d3/en/item/innas-radiance"
@@ -34,7 +34,6 @@
 				"spirit stone",
 				"monk",
 				"dexterity",
-				"legendary",
 				"experience"
 			],
 			"url": "http://eu.battle.net/d3/en/item/see-no-evil"
@@ -53,7 +52,6 @@
 				"spirit stone",
 				"monk",
 				"dexterity",
-				"legendary",
 				"lashing tail kick",
 				"fire",
 				"aoe",
@@ -75,7 +73,6 @@
 				"spirit stone",
 				"monk",
 				"dexterity",
-				"legendary",
 				"control impairing"
 			],
 			"url": "http://eu.battle.net/d3/en/item/erlang-shen"
@@ -94,7 +91,6 @@
 				"spirit stone",
 				"monk",
 				"dexterity",
-				"legendary",
 				"inner sanctuary",
 				"spirit regeneration",
 				"socket"
@@ -115,7 +111,6 @@
 				"spirit stone",
 				"monk",
 				"dexterity",
-				"legendary",
 				"breath of heaven",
 				"socket"
 			],
@@ -125,7 +120,7 @@
 			"name": "Kekegis Unbreakable Spirit",
 			"primary": [
 				"+XXX Dexterity",
-				"Critical Hit Chance Increased by X.X%"
+				"Critical Hit Chance Increased by X%"
 			],
 			"secondary": [
 				"Damaging enemies has a chance to grant you an effect that removes the Spirit cost of your abilities for 2–4 seconds."
@@ -170,7 +165,6 @@
 				"Increases Lashing Tail Kick Damage by 10–15%"
 			],
 			"secondary": [
-				
 			],
 			"tags": [
 				"legendary",

@@ -1,5 +1,5 @@
 {
-	"id": "items-helms",
+	"id": "armor-helms",
 	
 	"resources": [
 		{
@@ -13,9 +13,9 @@
 				"Attacks release a Poison Nova that deals 350–450% weapon damage as Poison to enemies within 10 yards."
 			],
 			"tags": [
+				"legendary",
 				"classes",
 				"helm",
-				"legendary",
 				"fire",
 				"poison",
 				"resistance",
@@ -30,9 +30,9 @@
 				"Whenever a gem drops, a gem of the type socketed into this item also drops."
 			],
 			"tags": [
+				"legendary",
 				"classes",
 				"helm",
-				"legendary",
 				"socket",
 				"gem"
 			],
@@ -44,9 +44,9 @@
 				"Increase the effect of any gem socketed into this item by 75–100%."
 			],
 			"tags": [
+				"legendary",
 				"classes",
 				"helm",
-				"legendary",
 				"socket",
 				"gem"
 			],
